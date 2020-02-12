@@ -1,0 +1,196 @@
+ {
+      "projects": [
+        {
+            "projectName": "EcoCoat",
+            "type": "Full stack web application",
+            "Description": "A full stack web application that is a winterwear shopping alternative to expensive and non eco-friendly drop shipping sites. I led and fully executed all back end and front end javascript for this activity. It is built using Node, MySql, Express, Sequelize, and Passport",
+            "url": "https://chicacoat.herokuapp.com/", 
+            "img_url": "/images/ecocoat.png"
+          },
+          {
+            "projectName": "Express note taker",
+            "type": "Full stack web application",
+            "Description": "A full stack note taking application built using Node, Express, and Handlebars",
+            "url": "https://express-notetaker-app.herokuapp.com/", 
+            "img_url": "/images/express-notes.png"
+          },
+          {
+            "projectName": "Cook County Judicial Guide",
+            "type": "News application",
+            "Description": "A mobile friendly front-end application that is a voting guide for judicial elections in Cook County",
+            "url": "https://www.injusticewatch.org/interactives/judicial-guide/", 
+            "img_url": "/images/guide.png"
+          },
+          {
+            "projectName": "Full stack burger logger",
+            "type": "Full stack web application",
+            "Description": "A full stack web application for logging what burgers you like to eat. Built using Node, MySql, Express, and Handlebars",
+            "url": "https://github.com/abbyblachman/full-stack-burger-logger", 
+            "img_url": "/images/burgers.png"
+          },
+
+        {
+          "projectName": "Node MySQL Employee Tracker",
+          "type": "Back end web application",
+          "Description": "A command line application built using NodeJS and MySQL to render, query, and update an employee database",
+          "url": "https://github.com/abbyblachman/node-mysql-employee-tracker", 
+          "img_url": "/images/node-mysql-employee.png"
+        },
+        {
+            "projectName": "Node pdf generator",
+            "type": "Back end web application",
+            "Description": "A command line application built using Node and the html-pdf package. Enter your GitHub username and the app will generate a PDF with your repositories and information about your profile",
+            "url": "https://github.com/abbyblachman/node-pdf-gen", 
+            "img_url": "/images/node-pdf-gen.png"
+          },
+          {
+            "projectName": "Node HTML template engine",
+            "type": "Back end web application",
+            "Description": "A command line application built using Node. The command line will prompt a user for information and once the user is done, an html page will be generated. This application also uses jest for testing and passes all tests",
+            "url": "https://github.com/abbyblachman/template-engine", 
+            "img_url": "/images/template-engineer.png"
+          },
+          {
+            "projectName": "Node csv input/output",
+            "type": "Back end web application",
+            "Description": "A command line application built using Node. The application takes two csv files as input, filters them, and outputs two newly filtered csv files",
+            "url": "https://github.com/abbyblachman/csv-input-output", 
+            "img_url": "/images/csv-input-output.png"
+          },
+          {
+            "projectName": "Missing DNA evidence hampers wrongful conviction fight in Iowa",
+            "type": "Journo",
+            "Description": "For many prisoners seeking to overturn their convictions, the right to DNA evidence testing exists in theory but not in practice. Iowa is among 13 U.S. states where no prisoner has ever successfully used DNA testing to win exoneration",
+            "url": "https://www.injusticewatch.org/news/2019/iowa-missing-dna-evidence/", 
+            "img_url": "/images/missing-dna.png"
+          },
+          {
+            "projectName": "City climate projector",
+            "type": "Front end web application",
+            "Description": "A full stack application built with a team of other developers that uses AJAX and the meteostat API. I was responsible for back end development.",
+            "url": "http://www.futureforecastfinder.com/", 
+            "img_url": "/images/forecast.png"
+          },
+          {
+            "projectName": "Weather dashboard",
+            "type": "Front end web application",
+            "Description": "A full stack, single page application built using HTML, CSS, jQuery, AJAX, and the OpenWeatherMap API.",
+            "url": "https://abbyblachman.github.io/weather-dashboard/", 
+            "img_url": "/images/weather-dashboard.png"
+          },
+          {
+            "projectName": "Decades after alleged torture by police: Years more wait to have cases resolved",
+            "type": "Journo",
+            "Description": "The number of defendants seeking review of their claims that they were tortured into confessing now numbers more than 500. Absent more resources to review the cases, It could be decades before those claims are resolved",
+            "url": "https://www.injusticewatch.org/news/2019/decades-after-alleged-torture-by-police-years-more-wait-to-have-cases-resolved/", 
+            "img_url": "/images/tirc.png"
+          },
+          {
+            "projectName": "Workday scheduler",
+            "type": "Front end web application",
+            "Description": "A single page workday scheduler application that uses local storage to save and render data.",
+            "url": "https://abbyblachman.github.io/weather-dashboard/", 
+            "img_url": "/images/schedule.png"
+          },
+          {
+            "projectName": "Javascript quiz",
+            "type": "Front end web application",
+            "Description": "A single page workday quizs application that uses local storage to save and render data.",
+            "url": "https://abbyblachman.github.io/javascript-quiz/", 
+            "img_url": "/images/js-quiz.png"
+          },
+          {
+            "projectName": "After more than two decades, evidence mounts of innocence",
+            "type": "Journo",
+            "Description": "A new eyewitness, unearthed police dispatch tapes, and allegations of misconduct by notorious police commander Glenn Evans cast doubt on a Chicago man’s conviction for a 1997 murder",
+            "url": "https://www.injusticewatch.org/news/2019/after-more-than-two-decades-evidence-mounts-of-innocence/", 
+            "img_url": "/images/innocence.png"
+          },
+          {
+            "projectName": "Javascript secure password generator",
+            "type": "Front end web application",
+            "Description": "A single page web application that is a secure password generator.",
+            "url": "https://abbyblachman.github.io/password-generator/", 
+            "img_url": "/images/pw-gen.png"
+          },
+        {
+            "projectName": "Contract work portfolio",
+            "type": "Portfolio",
+            "Description": "A portfolio built using HTML, CSS, and jQuery, with a focus on UI/UX design",
+            "url": "http://aleciarichards.com/", 
+            "img_url": "/images/alecia.png"
+          }
+    ], 
+    "experience" : [
+      {
+        "workplace": "Injustice Watch", 
+        "type": "Work experience", 
+        "role": "Data reporter",
+        "present": true, 
+        "description": "xyz",
+        "duration": "September 2018 - present", 
+        "skills": "Investigative reporting, database reporting, PostgreSQL, R (tidyverse, ggplot, kable), Python (pandas), interviewing, fact checking"
+      },
+      {
+        "workplace": "Better Government Association", 
+        "type": "Work experience", 
+        "role": "Digital Engagement Intern",
+        "present": false, 
+        "description": "xyz",
+        "duration": "April 2018 - June 2018",
+        "skills": "Adobe Premiere Pro, Twitter analytics, Twitter, Facebook"
+      },
+      {
+        "workplace": "DataMade", 
+        "type": "Work experience", 
+        "role": "Data fellow",
+        "present": false, 
+        "description": "xyz",
+        "duration": "January 2018 - April 2018", 
+        "skills": "PostgreSQL, JavaScript, HTML, CSS"
+      },
+      {
+        "workplace": "Northwestern University", 
+        "type": "Education", 
+        "role": "Bachelors of Science in Journalism",
+        "present": false, 
+        "description": "xyz",
+        "duration": "September 2014 - June 2018", 
+        "skills": "Reporting, writing, interviewing, video production, audio production, data reporting, statistics for journalism"
+      },
+      {
+        "workplace": "Northwestern University", 
+        "type": "Education", 
+        "role": "Certificate in full-stack web development",
+        "present": true, 
+        "description": "xyz",
+        "duration": "September 2019 - March 2020", 
+        "skills": "HTML, CSS, flexbox, responsive design, media queries, JavaScript (jQuery, Node, React), MySQL, MongoDB, Jest, Heroku, Git, GitHub"
+      },
+      {
+        "workplace": "Code Your Dreams", 
+        "type": "Volunteer", 
+        "role": "Teaching Assistant",
+        "present": false, 
+        "description": "xyz",
+        "duration": "February 2020 - June 2020", 
+        "skills": "Python, JavaScript, R, block code games, mentorship, leadership"
+      }
+
+    ],
+    "blog" : [
+      {
+        "title": "1/26/20: Data Science Exploration Project", 
+        "id": 1,
+        "date": "January 26th 2020, 7:53 pm",
+        "text": "One of the parts of my job as a data reporter that I love most is conducting complex data analysis on PostgreSQL databases. In order to be able to conduct this kind of analysis, I mostly learned on the job, using real time reporting questions of the data as a foundation to be able to write complex queries and produce my desired results.",
+        "text2" : "A number of experienced and incredibly smart people helped me on the way, pushing me to take my skills to the next level. But a pertinent area I have yet to explore through my job is analysis that is more predictive and analytical in nature. I have conducted in-depth analysis of hundreds of millions of data points that come from years’ worth of data, but have yet to jump into the data science arena via this work.",
+        "text3" : "As a result, I have decided to undertake a side project to increase my data science chops. In order to increase accountability for myself on this project, and also coincidentally deciding to start a personal blog for my website, I decided my journey on this learning adventure would make the perfect series of first posts.\nOne of my biggest regrets of my undergraduate career was not taking more statistics courses (if you are still in this phase of life/ if you are in a position to be able to do so, I highly suggest you take as many statistics courses as possible!). But I am eager to learn and apply my knowledge that I have gained clarity about how interesting and applicable data science is to me.",
+        "text4" :"My plan is as follows:", 
+        "text5" : "1) Take three to four weeks to study and practice using <a href=`https://faculty.marshall.usc.edu/gareth-james/ISL/?fbclid=IwAR0F1_GfJL0n4YtH7EvWplSq38yxgcXg80Yxi3Ky3GjWHJgyXefXpep0s38`>Introduction to Statistical Learning</a>",
+        "text6" : "2) Join a beginner-level competition via <a href=`https://www.drivendata.org/`>DrivenData</a> to apply my knowledge", 
+        "text7" : "I am sure the plan will adapt and change, so I will update these bullets as it does. Thanks for following me along this journey!"
+            }
+    ]
+  
+    }
