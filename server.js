@@ -8,8 +8,9 @@ const express = require("express");
 
 // Sets up the Express App
 // =============================================================
-const app = express();
+
 const PORT = process.env.PORT || 8080;
+const app = express();
 
 // Requiring our models for syncing
 const db = require("./models");
@@ -23,7 +24,8 @@ app.use(express.static("public"));
 
 // Routes
 // =============================================================
-require("./routes/html-routes.js")(app);
+app.use(require("./routes/html-routes"));
+app.use(require("./routes/api-routes"));
 //require("./routes/author-api-routes.js")(app);
 //require("./routes/post-api-routes.js")(app);
 
