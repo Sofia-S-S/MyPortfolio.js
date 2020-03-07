@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "Employee Directory (React)",
+    "image": "Employee-Directory.png",
+    "description": "For this assignment I created an employee directory with React. This assignment is required to break up application's UI into components, manage component state, and respond to user events.",
+    "heroku": "https://employee-directory-sofia.herokuapp.com/",
+    "github": "https://github.com/Sofia-S-S/employee-directory"
+  },
+  {
+    "id": 2,
+    "name": "Workout Tracker (Nosql)",
+    "image": "Workout-Tracker.png",
+    "description": "For this project I created a workout tracker that use Mongo database with a Mongoose schema. Routes had been handle with Express",
+    "heroku": "https://workout-tracker-sofia.herokuapp.com/",
+    "github": "https://github.com/Sofia-S-S/Workout-Tracker"
+  },
+  {
+    "id": 3,
+    "name": "Burger's App (MySQL)",
+    "image": "BurgersApp.png",
+    "description": "In this project I created a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM. I followed the MVC design pattern,used Node and MySQL to query and route data in this app, and Handlebars to generate my HTML",
+    "heroku": "https://arcane-anchorage-35271.herokuapp.com/",
+    "github": "https://github.com/Sofia-S-S/Burger"
+  },
+  {
+    "id": 4,
+    "name": "Online/Offline Budget Tracker (PWA)",
+    "image": "Budget-Tracker.png",
+    "description": "Thia app is allowed user to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.",
+    "heroku": "https://budget-tracker-sofia.herokuapp.com/",
+    "github": "https://github.com/Sofia-S-S/Budget-Tacker"
+  },
+  {
+    "id": 5,
+    "name": "Note Taker (Express)",
+    "image": "NoteTaker.png",
+    "description": "This application can be used to write, save, and delete notes. Note taker app will use an express backend and save and retrieve note data from a JSON file.",
+    "heroku": "https://arcane-anchorage-35271.herokuapp.com/",
+    "github": "https://github.com/Sofia-S-S/NoteTaker"
+  },
+  {
+    "id": 6,
+    "name": "Employee Traker (MySQL)",
+    "image": "EmployeeTraker.png",
+    "description": "This is a command-line application that allow users to update/view by different parameters/delete employee/roles/managers/departments and etc. I used npm package to connect to MySQL database and  performed a variety of SQL JOINS to complete this assignment",
+    "github": "https://github.com/Sofia-S-S/Employee-Tracker"
+  },
+  {
+    "id": 7,
+    "name": "Weather App (Server-Side APIs)",
+    "image": "Weather.png",
+    "description": "In this application I build a weather dashboard using the OpenWeather API.This third-party API allowed me to access OpenWeather's data and functionality by making requests with specific parameters to a URL. ",
+    "github": "https://github.com/Sofia-S-S/Weather"
+  },
+  {
+    "id": 8,
+    "name": "Day Planner (Third-Party APIs)",
+    "image": "DayPlanner.png",
+    "description": "This ia a simple calendar application that allows the user to save events for each hour of the day. This app runs in the browser and feature dynamically updated HTML and CSS powered by jQuery.",
+    "github": "https://github.com/Sofia-S-S/Day-Planner"
+  }
+]

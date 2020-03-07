@@ -86,13 +86,14 @@ h3 {
 }
 
 /*---Portfolio-----------*/
-.portfolio-wrapp {
+.portfolio-wrapper {
   display: flex;
 }
-.project-card {
+
+.list-group-item {
   border-style: solid;
   border-width: 1px;
-  width: 49%;
+  width: 45%;
   padding: 2px;
   margin: 5px;
 }
