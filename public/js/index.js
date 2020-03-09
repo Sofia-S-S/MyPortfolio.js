@@ -18,18 +18,27 @@ var renderProjectList = function(projects) {
 
     var $div = $("<div class='list-group-item'>").data(project);
     var $projectName = $("<h1 class='projectName'>").text(project.name);
-    var $projectImage = $("<img class='project-image' src='/images/' ''>").text(
-      project.image
+    // var $projectImage = $("<img class='project-image' src='/images/' ''>").text(
+    //   project.image
+    // );
+    // var $projectImage = $(
+    //   `<img class='project-image' src='/images/${project.image}'>`
+    // );
+    var $projectImage = $(
+      "<img class='project-image' src='/images/".concat(project.image, "'>")
     );
     var $projectDescription = $("<h3 class='project-description'>").text(
       project.description
     );
     var $projectHeroku = $(
-      "<span class='project-links'><a href='' title='go to Heroku APP'><img class='icon' src='./images/heroku.png'  alt='heroku'></a></span>"
+      "<span class='project-links'><a href='".concat(
+        project.heroku,
+        "' title='go to Heroku APP'><img class='icon' src='./images/heroku.png'  alt='heroku'></a></span>"
+      )
     );
     var $projectGithub = $(
-      "<span class='project-links'><a href='' title='go to Github repo'> <img class='icon' src='./images/github.png'  alt='github'>"
-    ).text(project.github);
+      `<span class='project-links'><a href='${project.github}' title='go to Github repo'> <img class='icon' src='./images/github.png'  alt='github'>`
+    );
 
     $div.append(
       $projectImage,
